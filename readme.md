@@ -50,5 +50,3 @@ Finkelstein S, Frishman S, Turjeman S, Shtossel O, Tikhonov E, Nuriel-Ohayon M, 
 Popova P, Tkachuk AS, Vasukova EA, Anopova AD, Pustozerov EA, Pervunina TM, Grineva EN,
 Hod M, Schwartz B, Hadar E, Koren O*, Louzoun Y*. Early Pregnancy Marks Significant Shifts in the Oral Microbiome. 2025.
 ```
-## License
-Add a `LICENSE` (e.g., MIT for code; CC BY 4.0 for figures).
