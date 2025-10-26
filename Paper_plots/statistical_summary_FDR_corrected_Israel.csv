@@ -1,0 +1,2 @@
+Metric,Overall_Test,Overall_P,Overall_Sig,T1_vs_T2_P_uncorrected,T1_vs_T2_P_corrected,T1_vs_T2_Sig_FDR,T1_vs_T2_CohenD,T1_vs_T3_P_uncorrected,T1_vs_T3_P_corrected,T1_vs_T3_Sig_FDR,T1_vs_T3_CohenD,T2_vs_T3_P_uncorrected,T2_vs_T3_P_corrected,T2_vs_T3_Sig_FDR,T2_vs_T3_CohenD
+Richness,Kruskal-Wallis test,0.006406837486376695,True,0.03120068086947226,0.04680102130420839,True,0.2505783624854527,0.0040738081750402565,0.01222142452512077,True,0.391005657843279,0.26438577838939137,0.26438577838939137,False,0.17393546365094023
